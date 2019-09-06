@@ -4,6 +4,9 @@ from math import sqrt
 from sys import argv
 
 def factorize(n):
+    '''
+    https://www.quaxio.com/exploring_three_weaknesses_in_rsa/
+    '''
     if n%2==0:
         return 2
     if n%3==0:
