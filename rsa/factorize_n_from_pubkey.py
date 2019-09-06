@@ -1,3 +1,4 @@
+#python3 factorize_n_from_pubkey.py key.pem
 
 from Crypto.PublicKey import RSA
 from math import sqrt

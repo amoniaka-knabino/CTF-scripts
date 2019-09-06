@@ -1,3 +1,5 @@
+#python3 extract_n_e.py kye.pem
+
 from Crypto.PublicKey import RSA
 from sys import argv
 
